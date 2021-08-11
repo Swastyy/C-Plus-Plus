@@ -35,6 +35,10 @@ var namespaces_dup =
       [ "subset_sum", null, [
         [ "number_of_subsets", "d2/d5a/subset__sum_8cpp.html#a7cb50d36a59427a33f64a266dac83d99", null ]
       ] ],
+      [ "wildcard_matching", null, [
+        [ "wildcard_matching", "dc/d14/wildcard__matching_8cpp.html#a182d0f016b34e40f86be8d6df05dc9ac", null ],
+        [ "dpTable", "dc/d14/wildcard__matching_8cpp.html#a597f5c6e23f88d339c80eb83f8a6e8ff", null ]
+      ] ],
       [ "graphColoring", "db/dc0/namespacebacktracking.html#a29360ddb1bad75caa61ec895b6e71986", null ],
       [ "isPossible", "db/dc0/namespacebacktracking.html#a80af16e57cfb6aaab2bf1da4c4db3308", null ],
       [ "isSafe", "db/dc0/namespacebacktracking.html#a5a6c3c2b065ea1c07adf2f638f8efc43", null ],
@@ -59,6 +63,7 @@ var namespaces_dup =
     [ "data_structures", "d5/d3c/namespacedata__structures.html", "d5/d3c/namespacedata__structures" ],
     [ "depth_first_search", "d8/da7/namespacedepth__first__search.html", null ],
     [ "disjoint_union", "de/db4/namespacedisjoint__union.html", null ],
+    [ "divide_and_conquer", "dd/dba/namespacedivide__and__conquer.html", null ],
     [ "double_hashing", "d0/d65/namespacedouble__hashing.html", "d0/d65/namespacedouble__hashing" ],
     [ "dynamic_programming", "dd/d24/namespacedynamic__programming.html", [
       [ "abbreviation", null, [
@@ -112,6 +117,7 @@ var namespaces_dup =
     [ "iterative_tree_traversals", "dd/d73/namespaceiterative__tree__traversals.html", null ],
     [ "jarvis", "d5/da7/namespacejarvis.html", null ],
     [ "kadane", "d6/d74/namespacekadane.html", null ],
+    [ "karatsuba_algorithm", "de/d41/namespacekaratsuba__algorithm.html", null ],
     [ "Knapsack", "d7/daf/namespace_knapsack.html", null ],
     [ "layers", "d5/d2c/namespacelayers.html", null ],
     [ "linear_algebra", "d3/d78/namespacelinear__algebra.html", null ],
@@ -247,6 +253,7 @@ var namespaces_dup =
     [ "vigenere", "d6/da2/namespacevigenere.html", null ],
     [ "wave_sort", "d9/d21/namespacewave__sort.html", null ],
     [ "wiggle_sort", "d0/d52/namespacewiggle__sort.html", null ],
+    [ "wildcard_matching", "db/d03/namespacewildcard__matching.html", null ],
     [ "word_break", "d6/d53/namespaceword__break.html", null ],
     [ "XOR", "d7/d47/namespace_x_o_r.html", null ]
 ];
