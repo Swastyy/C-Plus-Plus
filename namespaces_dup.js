@@ -64,6 +64,7 @@ var namespaces_dup =
     [ "depth_first_search", "d8/da7/namespacedepth__first__search.html", null ],
     [ "disjoint_union", "de/db4/namespacedisjoint__union.html", null ],
     [ "divide_and_conquer", "dd/dba/namespacedivide__and__conquer.html", null ],
+    [ "dnf_sort", "d9/d75/namespacednf__sort.html", null ],
     [ "double_hashing", "d0/d65/namespacedouble__hashing.html", "d0/d65/namespacedouble__hashing" ],
     [ "dynamic_programming", "dd/d24/namespacedynamic__programming.html", [
       [ "abbreviation", null, [
@@ -125,6 +126,14 @@ var namespaces_dup =
     [ "linear_recurrence_matrix", "d9/dd1/namespacelinear__recurrence__matrix.html", null ],
     [ "linked_list", "d3/db0/namespacelinked__list.html", null ],
     [ "list_array", "d9/d27/namespacelist__array.html", null ],
+    [ "lru_cache", "d8/dcd/namespacelru__cache.html", null ],
+    [ "lru_tests", null, [
+      [ "log", "d3/db3/lru__cache_8cpp.html#a24d21a345ed06f7fba6919718cf3e058", null ],
+      [ "run_tests", "d3/db3/lru__cache_8cpp.html#a6a3be6d8871b1f5dc03688da8f3ee9e6", null ],
+      [ "test_1", "d3/db3/lru__cache_8cpp.html#a6401e8f2d41d8cc9cd0e52ab381608d4", null ],
+      [ "test_2", "d3/db3/lru__cache_8cpp.html#a4b02e288a407876a8d6024f98a2a25ec", null ],
+      [ "test_3", "d3/db3/lru__cache_8cpp.html#a01ec21fc91ddafd964ae2035ba7892c0", null ]
+    ] ],
     [ "machine_learning", "d8/d77/namespacemachine__learning.html", "d8/d77/namespacemachine__learning" ],
     [ "magic_sequence", "d8/d93/namespacemagic__sequence.html", null ],
     [ "math", "dd/d47/namespacemath.html", "dd/d47/namespacemath" ],
@@ -168,6 +177,9 @@ var namespaces_dup =
     [ "sorting", "d5/d91/namespacesorting.html", [
       [ "cycle_sort", null, [
         [ "cycleSort", "de/d07/cycle__sort_8cpp.html#ad0cfe2e54b1d3f9d0ca648265d917c6a", null ]
+      ] ],
+      [ "dnf_sort", null, [
+        [ "dnfSort", "d6/d1a/dnf__sort_8cpp.html#a60688fc307dbb4b71969dfc191e1e67b", null ]
       ] ],
       [ "inversion", null, [
         [ "countInversion", "d2/d26/count__inversions_8cpp.html#a3332498eabf6579ef059c0d0e9f4ec80", null ],
