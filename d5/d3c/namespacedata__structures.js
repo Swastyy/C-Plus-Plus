@@ -3,6 +3,7 @@ var namespacedata__structures =
     [ "linked_list", null, [
       [ "link", "de/d9d/classdata__structures_1_1linked__list_1_1link.html", "de/d9d/classdata__structures_1_1linked__list_1_1link" ],
       [ "list", "d1/def/classdata__structures_1_1linked__list_1_1list.html", "d1/def/classdata__structures_1_1linked__list_1_1list" ],
+      [ "Node", "d4/d0e/classdata__structures_1_1linked__list_1_1_node.html", "d4/d0e/classdata__structures_1_1linked__list_1_1_node" ],
       [ "isDigit", "da/dc3/linked__list_8cpp.html#ab1a372fe1e605bc0e0987dcdd7361180", null ]
     ] ],
     [ "list_array", null, [
@@ -15,6 +16,9 @@ var namespacedata__structures =
       [ "Sparse_table", "da/d37/structdata__structures_1_1sparse__table_1_1_sparse__table.html", "da/d37/structdata__structures_1_1sparse__table_1_1_sparse__table" ],
       [ "M", "d6/d42/data__structures_2sparse__table_8cpp.html#af7db62f21983565c64d5d42d2a49888e", null ],
       [ "N", "d6/d42/data__structures_2sparse__table_8cpp.html#a10f3ffb3f6f7e1b83d556b9c8de89a5d", null ]
+    ] ],
+    [ "stack_using_queue", null, [
+      [ "Stack", "db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack.html", "db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack" ]
     ] ],
     [ "tree_234", null, [
       [ "Node", "dd/d40/classdata__structures_1_1tree__234_1_1_node.html", "dd/d40/classdata__structures_1_1tree__234_1_1_node" ],
